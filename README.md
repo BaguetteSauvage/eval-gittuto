@@ -1,7 +1,7 @@
 # eval-gittuto
  Evaluation de Git
 
-01 Nom:
+01 Nom: OUAZAN -- REBOUL
 01 Prénom:
 02 Nom: Fenoux
 02 Prénom:
