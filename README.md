@@ -6,6 +6,6 @@
 02 Nom: Fenoux
 02 Prénom:
 03 Nom: Vannier
-03 Prénom:
+03 Prénom: Clémentine
 04 Nom: Monnier
 04 Prénom:
