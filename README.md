@@ -2,7 +2,7 @@
  Evaluation de Git
 
 01 Nom: OUAZAN -- REBOUL
-01 Prénom:
+01 Prénom: Rémi
 02 Nom: Fenoux
 02 Prénom: Valentin
 03 Nom: Vannier
